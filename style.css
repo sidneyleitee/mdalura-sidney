@@ -3,10 +3,20 @@
 }
 
 .principal{
-	background: #CCCCCC;
-	padding: 30px;
+    background: #CCCCCC;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(204, 204, 204);
+    padding: 30px;
 }
-
+	
 nav {
 	position: absolute;
 	top: 110px;
