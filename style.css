@@ -1,24 +1,12 @@
-#banner {
-	width:100%;
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
 }
 
 .caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
-}
-.titulo-principal {
-	padding-left: 20px;
-}
-
-h1 {
-    display: block;
-    font-size: 30px;
-    margin-block-start: 20px;
-    margin-block-end: 20px;
-    margin-inline-start: 20px;
-    margin-inline-end: 20px;
-    font-weight: bold;
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
 }
 	
 nav {
